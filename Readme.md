@@ -166,8 +166,20 @@ Please cite the following paper if the code is used in your research work. Thank
 
 Churan Han, Liangcai Cao, Dun Liu, Hao Tu, and Qiaofeng Tan, "High uniformity flattop beam shape correction with complex amplitude aberration of the incidence," Optics and Lasers in Engineering 195, 109275 (2025).
 
-https://doi.org/10.1016/j.optlaseng.2025.109275
-
+```bibtex
+@article{HAN2025109275,
+  title = {High uniformity flattop beam shape correction with complex amplitude aberration of the incidence},
+  journal = {Optics and Lasers in Engineering},
+  volume = {195},
+  pages = {109275},
+  year = {2025},
+  issn = {0143-8166},
+  doi = {https://doi.org/10.1016/j.optlaseng.2025.109275},
+  url = {https://www.sciencedirect.com/science/article/pii/S0143816625004609},
+  author = {Churan Han and Liangcai Cao and Dun Liu and Hao Tu and Qiaofeng Tan},
+  keywords = {Flattop beam, Complex amplitude aberration, Beam shape correction}
+}
+```
 Contact: clc@tsinghua.edu.cn
 
 ---
