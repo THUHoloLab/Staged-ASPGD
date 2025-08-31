@@ -162,7 +162,13 @@ This repository contains a MATLAB script that simulates **amplitude- and phase-a
 
 ## Citation / attribution
 
-If you use or extend this code in academic work, please cite relevant literature on **SPGD**, **Zernike-based aberration compensation**, and **flattop beam synthesis via phase optimization**. *(https://doi.org/10.1016/j.optlaseng.2025.109275)*
+Please cite the following paper if the code is used in your research work. Thank you!
+
+Churan Han, Liangcai Cao, Dun Liu, Hao Tu, and Qiaofeng Tan, "High uniformity flattop beam shape correction with complex amplitude aberration of the incidence," Optics and Lasers in Engineering 195, 109275 (2025).
+
+https://doi.org/10.1016/j.optlaseng.2025.109275
+
+Contact: clc@tsinghua.edu.cn
 
 ---
 
